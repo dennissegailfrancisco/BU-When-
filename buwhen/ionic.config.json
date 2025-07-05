@@ -1,0 +1,7 @@
+{
+  "name": "buwhen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
